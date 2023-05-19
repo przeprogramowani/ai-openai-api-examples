@@ -1,4 +1,6 @@
-# OpenAI API - Examples
+# OpenAI API - Experiments
+
+![](./media/app.png)
 
 ## What's inside
 
@@ -17,3 +19,4 @@ Create `openapi.json` file in root of the project with the following content:
     "openAiApiKey": "YOUR_API_KEY_HERE"
 }
 ```
+Enjoy!
